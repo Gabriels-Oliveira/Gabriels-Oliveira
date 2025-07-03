@@ -1,6 +1,4 @@
 
-# Gabriel-Oliveira
-
 🚀 Apresentação sobre mim e minhas tecnologias.
 
 ## 👋 Olá, eu sou o Gabriel!
