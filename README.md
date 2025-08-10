@@ -16,7 +16,7 @@
 - 🔹 SQL (consultas, joins, subqueries)
 - 🔹 Microcontroladores (C para PIC)
 - 🔹 Git e GitHub
-- 🔹 Excel intermediário
+- 🔹 Excel avançado
 
 
 
@@ -24,7 +24,7 @@
 
 - 📁 Repositórios de estudos e projetos em dados
 - ⚙️ Códigos de microcontroladores embarcados
-- 🧪 Scripts e automações simples com Python
+- 🧪 Scripts e automações com Python
 
 
 ### 📫 Me encontre:
